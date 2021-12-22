@@ -16,7 +16,7 @@ body {
 .container {
   width: 50%;
   margin: 0px auto;
-  max-width: 600px;
+  max-width: 750px;
   background-color: white;
   display: grid;
   grid-template-columns: auto;
@@ -53,7 +53,7 @@ section p {
 }
 
 .icons {
-  width: 30%;
+  width: 50%;
   margin: 0px auto 1rem;
 }
 
